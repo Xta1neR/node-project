@@ -1,0 +1,12 @@
+- WHAT IS NODE JS? Advantages? 
+
+1. Event Loops 
+2. Multi-threading Model
+3. Asyncronus Nature and Syncronous Nature. | Event Driven 
+4. Node Package Manager : 1. Core Modules
+						  2. Local Modules
+						  3. Third Party Modules 
+5. Installation of Node.
+6. npm
+7. prompt-sync, nodemon
+8. REPL = Read Evaluate Print Loop
