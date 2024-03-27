@@ -1,0 +1,11 @@
+streams are collections of data just like array or Strings.
+
+Each type of stream is an EventEmitter
+- data : event is fired when data is available to read.
+- end : event is fired when no more data is availableto read
+- error : 
+- Finish
+
+Types 0f streams 
+- Writable : fs.createWriteStream()
+- Readable : fs.createReadStream()
