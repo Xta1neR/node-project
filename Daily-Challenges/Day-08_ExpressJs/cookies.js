@@ -11,6 +11,6 @@ app.get('/', function(req,res){
 app.get('/clear', function(req,res){
 	res.clearCookie('course','html');
 	res.send('cookie cleared');
-});
+});	
 
 app.listen(3000);
